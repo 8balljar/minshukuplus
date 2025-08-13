@@ -1,0 +1,2 @@
+# minshukuplus
+algo
